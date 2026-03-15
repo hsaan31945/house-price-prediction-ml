@@ -91,4 +91,4 @@ cd DH-Internship-Tasks
 pip install pandas numpy scikit-learn matplotlib seaborn
 
 # Run the Jupyter Notebook
-jupyter notebook Untitled.ipynb
+jupyter notebook Task 6.ipynb
